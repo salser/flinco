@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" data-name="Capa 1" viewBox="0 0 1196.55 531.01">
+  <defs fill="#ffffff">
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke: #ffffff;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ffffff;
+      }
+
+      .cls-3 {
+        font-family: Generica-Bold, 'Generica Bold';
+        font-size: 279.17px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(280.22 349.81) scale(1.09 1)" fill="#ffffff"><tspan x="0" y="0" fill="#ffffff">in</tspan><tspan class="cls-1" x="220.26" y="0" fill="#ffffff">c</tspan><tspan x="343.66" y="0" fill="#ffffff">o</tspan></text>
+  <line class="cls-2" x1="7.73" y1="530.91" x2="7.73" y2="10.46" fill="#ffffff"/>
+  <line class="cls-2" x1=".05" y1="13.5" x2="858.55" y2="7.5" fill="#ffffff"/>
+  <line class="cls-2" x1="205.44" y1="530.91" x2="205.44" y2="68.91" fill="#ffffff"/>
+  <line class="cls-2" x1="205.05" y1="523.51" x2="856.84" y2="523.02" fill="#ffffff"/>
+  <line class="cls-2" x1="7.73" y1="238.17" x2="131.2" y2="238.17" fill="#ffffff"/>
+</svg>
